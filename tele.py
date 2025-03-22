@@ -9,7 +9,7 @@ from aiogram.dispatcher.filters import Text
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
 
-TOKEN = "5660718931:AAGVyK98fQ0LAH__13wVjZLrQZu_U_TAR2M"
+TOKEN = ""
 API_URL1 = "http://127.0.0.1:8000/get/"
 API_URL = "http://127.0.0.1:8000/send/"
 storage = MemoryStorage()
